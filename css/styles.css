@@ -152,14 +152,14 @@ main div h1{
 }
 
 .ultimo-episodio div a{
-    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
-    padding: 10px; /*espacio alrededor texto*/
-    background-color: #ffffff; /*color botón*/
-    color: #700808; /*color texto*/
-    text-decoration: none; /*decoración texto*/
-    text-transform: uppercase; /*capitalización texto*/
-    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
-    border-radius: 50px; /*bordes redondos*/
+    border: 1px solid #2e518b;
+    padding: 10px;
+    background-color: #ffffff;
+    color: #700808;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Helvetica', sans-serif;
+    border-radius: 50px;
 }
 
 
